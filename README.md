@@ -7,5 +7,6 @@ The feature documentation can be found here https://cran.r-project.org/web/packa
 ## Goals
 
 -The Goal of this project is to determine different attributes of the house that Influence its price using Linear Regression
+
 -The Goal of this project is to determine different attributes of the house that Influence its price group(High Price or Low Price) using Logistic Regression
 
