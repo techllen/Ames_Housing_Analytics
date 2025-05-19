@@ -8,7 +8,10 @@
 
 -The feature documentation can be found here https://cran.r-project.org/web/packages/AmesHousing/AmesHousing.pdf
 
-## Goals
+
+## Problem Statement
+
+-Develop a machine learning model to predict the sale price of a residential property in Ames, Iowa. The model should leverage key housing characteristics, such as living area, basement size, garage size, overall quality, number of fireplaces and bathrooms, and age, to accurately estimate the sale price.
 
 -The Goal of this project is to determine different attributes of the house that Influence its price using Linear Regression
 
